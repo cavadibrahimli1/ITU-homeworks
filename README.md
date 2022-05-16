@@ -4,6 +4,6 @@
 
 
 
-## Optimizations
+## About
 
 I will share all of my solutions to the given homeworks.
