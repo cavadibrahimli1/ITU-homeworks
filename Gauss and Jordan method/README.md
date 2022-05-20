@@ -12,3 +12,19 @@
 ### for detailed version of the homework, please look odev1.pdf in this repository.
 
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Authors
+
+- [@cavadibrahimli1](https://www.github.com/cavadibrahimli1)
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
+
+
