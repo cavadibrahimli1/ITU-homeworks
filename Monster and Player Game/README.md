@@ -1,5 +1,5 @@
 
-![Logo](https://media.cheggcdn.com/media/f14/f1406009-a334-42fd-a772-82e9f6af72f9/phpbFayit.png)
+![Logo](https://thumbs.gfycat.com/RingedMisguidedChihuahua-size_restricted.gif)
 
 
 # Monster and Player Maze Game
@@ -36,6 +36,5 @@ When the current game ends, a message that tells “You lost!” or “You won!�
 #
 #
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
-
 
 
