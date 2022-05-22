@@ -4,8 +4,8 @@
 
 | Number    | Homework name      | Course code     |    Date           |
 | ------------- | ------------- | -------- |---------------|
-|       1. | Gauss and Jordan Method        | EEF281  |  26th May  2022           |
-| 2.           |          |   |               | 
+|       1. |      Monster and Player Maze Game   | EEF110E  |     30th March 2022       |
+| 2.           |         Gauss and Jordan Method |  EEF281 |     26th May  2022           | 
 
 ## About
 
