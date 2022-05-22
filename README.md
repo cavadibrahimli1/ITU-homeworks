@@ -12,4 +12,4 @@
 
 
 
-I love coding. Here, I will some of my Coding homeworks given by ITU.
+I love coding. Here, I will share some of my Coding homeworks given by ITU.
