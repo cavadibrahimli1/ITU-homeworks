@@ -13,7 +13,7 @@ dice rolled at the same time will approach a normal distribution even if n = 2.
 
 The programming steps are summarized below:
 1. Create a random dice roll simulation that simulates rolling a single dice 10000 times. Run simulation and count the frequency of the values. Plot the obtained values as a histogram graph consisting of '*' symbols as shown below. The resulting graph will be close to a uniform distribution as follows:
-
+```
         * * * *
         * * * * * *
         * * * * * *
@@ -21,12 +21,12 @@ The programming steps are summarized below:
         * * * * * *
         * * * * * *
         1 2 3 4 5 6
-
+```
 2. 2. Now instead of one dice, create a simulation of two dice rolled at the same time 10000 times. At the end of each
 roll, count the frequency of the sum of the values of the two dice. For instance, if one die reads 3, the other reads
 4, the sum will be 7. Plot the obtained values (the sum of two dice will be between 2-12) as a histogram graph similar
 to normal distribution (bell shaped curve) as below:
-
+```
 
               *
               *
@@ -44,7 +44,7 @@ to normal distribution (bell shaped curve) as below:
     * * * * * * * * * * *
     * * * * * * * * * * *
    2 3 4 5 6 7 8 9 10 11 12
-
+```
 
 ### Homework Deliverables
 #### Note:  
