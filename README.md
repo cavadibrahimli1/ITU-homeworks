@@ -7,6 +7,7 @@
 |       1. |      Monster and Player Maze Game   | EEF110  |     30th March 2022       |
 | 2.           |         Gauss and Jordan Method |  EEF281 |     26th May  2022           | 
 | 3.           |         Central Limit Theorem |  EEF110 |     27th May  2022           | 
+| 4.           |         Phone Book |  EEF110 |     28th May  2022           | 
 
 ## About
 
