@@ -1,4 +1,4 @@
-![Logo](https://ari24.com/assets/img/default-haber.svg)
+![Logo](https://upload.wikimedia.org/wikipedia/tr/9/90/%C4%B0T%C3%9C_logo.png)
 
 ## ITU HOMEWORKS
 
