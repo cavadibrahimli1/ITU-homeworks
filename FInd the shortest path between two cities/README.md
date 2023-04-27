@@ -9,6 +9,8 @@ search algorithm in a specific order (always choose the city with the shortest d
 automatically imported from the given text file. Thus, it is possible to define any graph in your code with the given
 text file. Your code should generate the desired output file.
 
+![Logo](https://github.com/cavadibrahimli1/ITU-homeworks./blob/main/FInd%20the%20shortest%20path%20between%20two%20cities/assets./map.png)
+
 
 ### For this graph, the given input text file contains:
 - 7 11
