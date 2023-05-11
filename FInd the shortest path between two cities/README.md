@@ -38,11 +38,6 @@ The output file format is given below:
 Path (Prague London) : Prague -> Helsinki -> Tokyo -> New York -> London
 Distance: 26065 km
 Path (London London): London -> Tokyo -> New York -> London
-```
-
-Upload your project’s C source files to “EHB208E Homework” field in your Ninova system.
-
-```txt
 Distance: 25971 km
 Path (London Prague): Path not found
 Distance: Path not found
