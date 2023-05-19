@@ -1,0 +1,6 @@
+Path(Prague London): Prague -> Helsinki -> Tokyo -> NewYork -> London
+Distance: 26065 km
+Path(London London): London -> Tokyo -> NewYork -> London
+Distance: 25971 km
+Path(London Prague): Path not found
+Distance: Path not found

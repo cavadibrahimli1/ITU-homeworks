@@ -1,0 +1,15 @@
+7 11
+Prague Helsinki 1845
+Prague London 122264
+Beijing London 8132
+Beijing Tokyo 1303
+Beijing NewYork 11550
+Helsinki Tokyo 7815
+Tokyo Jakarta 5782
+Tokyo NewYork 10838
+Jakarta Beijing 4616
+NewYork London 5567
+London Tokyo 9566
+Prague London
+London London
+London Prague
