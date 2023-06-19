@@ -8,7 +8,8 @@
 | 2.           |         Gauss and Jordan Method |  EEF281 |     26th May  2022           | 
 | 3.           |         Central Limit Theorem |  EEF110 |     27th May  2022           | 
 | 4.           |         Phone Book |  EEF110 |     28th May  2022           | 
-| 5.           |         Cities - Shortest Path |  EHB208E|     7th May  2023           | 
+| 5.           |         1st Homework |  EHB208E|     7th May  2023           | 
+| 6.           |         2nd Homework |  EHB208E|     25th May  2023           |
 
 
 ## About
