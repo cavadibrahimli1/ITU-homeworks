@@ -10,6 +10,7 @@
 | 4.           |         Phone Book |  EEF110 |     28th May  2022           | 
 | 5.           |         1st Homework |  EHB208E|     7th May  2023           | 
 | 6.           |         2nd Homework |  EHB208E|     25th May  2023           |
+| 7.           |         Electric Bill Calculator |  EHB 402E|     25th November  2023           |
 
 
 ## About
